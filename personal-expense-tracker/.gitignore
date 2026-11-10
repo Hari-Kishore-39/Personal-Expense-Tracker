@@ -1,0 +1,18 @@
+
+# Maven build output
+target/
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE-specific files
+.idea/
+*.iml
